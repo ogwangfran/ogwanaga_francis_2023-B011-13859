@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(176, 169, 169);
+}
+.ones{
+    border-radius: 200px;
+    align-items: center;
+    align-content: center;
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+.nav justify-content-end{
+    padding-top: 20px;
+}
+.one{
+    
+}
+.link{
+    padding-top: 380px;
+    padding-left: -120px;
+}
